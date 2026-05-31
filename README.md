@@ -1,2 +1,3 @@
 # e2e-test3
-AppContainer for CLAUDE.md-compliant microservice
+
+CLAUDE.md-compliant microservice application container.
